@@ -13,5 +13,5 @@ Audio Gear:
   * Philips SHP9500
 * Mic
   * Shure SM-57
-* Mic Filter
+* Pop Filter + Windscreen
   * Shure A81WS
