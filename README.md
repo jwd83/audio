@@ -1,7 +1,11 @@
 # Audio Gear
  
-* DAC
-  * Motu M2
+* Audio Interfaces / DACs
+  * MOTU M2
+  * M-Audio M-Track Solo
+  * Syba Sonic
+  * SMSL M3
+  * FiiO E10 
 * Amp
   * Topping TP20 Mark 2
 * Speakers
@@ -11,8 +15,14 @@
   * HIFIMAN HE400se
   * Philips Fidelio X2HR
   * Philips SHP9500
-* Mic
+  * Koss KPH30i 
+  * Audio Technica ATH-AD900X
+  * NVX Audio XPT100
+  * Sennheiser HD-280 PRO
+  * Sennheiser PC 360
+* Microhpones
   * Shure SM-57
+  * Blue Yeti
 * Pop Filter + Windscreen
   * Shure A81WS
 
