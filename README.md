@@ -16,4 +16,4 @@
 * Pop Filter + Windscreen
   * Shure A81WS
 
-Last Updated Oct, 21 2021
+*Last Updated Oct, 21 2021*
