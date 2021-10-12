@@ -1,4 +1,4 @@
-Audio Gear:
+# Audio Gear
  
 * DAC
   * Motu M2
@@ -15,3 +15,5 @@ Audio Gear:
   * Shure SM-57
 * Pop Filter + Windscreen
   * Shure A81WS
+
+Last Updated Oct, 21 2021
